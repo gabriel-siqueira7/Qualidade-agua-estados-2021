@@ -4,7 +4,7 @@ Este projeto em Python extrai dados reais da API da Agência Nacional de Águas 
 
 ## Confira abaixo o gráfico gerado a partir do cruzamento dos dados da ANA e do IBGE para o ano de 2021:
 
-![Gráfico de Qualidade da Água](./grafico_qualidade_agua_2021.png)
+![Gráfico de Qualidade da Água](./qualidade_agua_2021.png)
 
 
 ## Tecnologias Utilizadas
